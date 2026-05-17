@@ -1,4 +1,4 @@
-# ✨ My Life OS — Soukaina
+# ✨ My Life OS 
 
 A warm, cozy personal dashboard to manage all your spaces: Glimpse of Science, Moroccan Minds, Stellantis, Data Reply, Mistral Ambassador, Chez Moi, Travel & Wish Lists.
 
